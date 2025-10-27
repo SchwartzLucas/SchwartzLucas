@@ -7,6 +7,29 @@
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="center">
+  <!-- Linguagem -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" />
+  
+  <!-- Notas -->
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian Badge" />
+  
+  <!-- IDE -->
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA Badge" />
+  
+  <!-- Controle de versão -->
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  
+  <!-- Markdown -->
+  <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Badge" />
+  
+  <!-- Status -->
+  <img src="https://img.shields.io/badge/Status-Em%20Evolução-blue?style=for-the-badge&logo=progress&logoColor=white" alt="Status Badge" />
+  
+  <!-- Último commit -->
+  <img src="https://img.shields.io/github/last-commit/SchwartzLucas/AprendendoJava?style=for-the-badge&color=brightgreen&label=Último%20Commit" alt="Último Commit" />
+</p>
+
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=SchwartzLucas&theme=radical&hide_border=false)<br/>

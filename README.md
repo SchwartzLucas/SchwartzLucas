@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on personal projects for my learning.   <br>👯 I'm looking for colaborate on basic projects and try somethings there are new for my, like APIs and integrations. <br>🤝 I’m looking for help with anything i know<br>🌱 I'm currently studying programing with C#, SQL and git. <br>💬 Ask me about basic programing problems like logic<br>⚡ Fun fact: I'm a runner and also like go to the gym<br><br><br><br>
+🔭 Java, JavaScript, SQL, Git and Coffe.
 
 
 ## 🌐 Socials:

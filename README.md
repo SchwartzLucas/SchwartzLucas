@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 Java, JavaScript, SQL, Git and Coffe.
+# Java, JavaScript, SQL, Git and Coffee.
 
 
 ## 🌐 Socials:
